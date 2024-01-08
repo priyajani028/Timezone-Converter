@@ -18,4 +18,5 @@
 
 ## 🐛 Bug
 * User can slide only for the sllider which is by default.
+* The time doesn't loop. It goes to front of the bar. It stays at either end.
 
